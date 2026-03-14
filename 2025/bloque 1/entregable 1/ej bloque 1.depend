@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755811026 source:c:\users\alu\desktop\facu\programacion\ej bloque 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

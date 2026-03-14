@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756753722 source:c:\users\alu\desktop\facu\programacion\ordenar\ordenar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

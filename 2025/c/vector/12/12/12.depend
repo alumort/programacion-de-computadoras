@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759014414 source:c:\users\alu\desktop\c\vector\12\12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1758905552 source:c:\users\alu\desktop\facu\programacion\bloque 4\1\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1758904834 c:\users\alu\desktop\facu\programacion\bloque 4\1\1\funciones.h
+
+1758905832 source:c:\users\alu\desktop\facu\programacion\bloque 4\1\1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

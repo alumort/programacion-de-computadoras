@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757112261 source:c:\users\alu\desktop\facu\programacion\bloue 3\entregable\entregale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
