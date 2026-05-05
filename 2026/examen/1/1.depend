@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777648668 source:c:\users\alu\desktop\clases\examen\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

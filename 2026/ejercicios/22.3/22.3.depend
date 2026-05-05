@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777343196 source:c:\users\alu\desktop\clases\clase6\22.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

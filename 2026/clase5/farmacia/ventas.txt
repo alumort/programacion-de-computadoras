@@ -1,0 +1,6 @@
+Nombre del Producto: Paracetamol
+Precio: 5.200000
+Nombre del Producto: Paracetamol
+Precio: 5.200000
+Nombre del Producto: Diclofenac
+Precio: 7.50
